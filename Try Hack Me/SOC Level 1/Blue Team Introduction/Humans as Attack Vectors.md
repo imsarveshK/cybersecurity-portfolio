@@ -35,7 +35,7 @@ Fraudulent emails or messages designed to trick users into:
 - Opening malicious attachments
 - Visiting malicious websites
 
-- Successfully identified and reported phishing scenarios
+## Successfully identified and reported phishing scenarios
   (screenshot below)-
 
 <img width="706" height="603" alt="Screenshot 2026-05-07 164814" src="https://github.com/user-attachments/assets/c1da47fc-a7a7-4150-b449-d6900801f6ca" />
@@ -95,5 +95,5 @@ Recommended defensive measures:
 
 ---
 
-screenshot of room completion-
+## screenshot of room completion-
 <img width="2559" height="1301" alt="Screenshot 2026-05-06 134328" src="https://github.com/user-attachments/assets/221212b5-4bb2-4fb9-bab4-40812349fb96" />
