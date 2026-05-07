@@ -41,7 +41,7 @@ SOC teams typically operate 24/7 to ensure rapid identification of threats.
 ## SOC Analyst Responsibilities
 
 -Successfully identified and mapped responsibilities to the their respective member in blue team as in screenshot below-
-<img width="1457" height="1238" alt="image" src="https://github.com/user-attachments/assets/80ec9e85-1cb8-4afd-9a5e-acfb412e2ac9" />
+<img width="1457" height="1238" alt="Screenshot 2026-05-06 170849" src="https://github.com/user-attachments/assets/b6d5b0ca-2181-45c8-97c2-adbae3732fda" />
 
 
 ### Tier 1 Analyst
