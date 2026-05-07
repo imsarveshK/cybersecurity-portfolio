@@ -38,7 +38,8 @@ Fraudulent emails or messages designed to trick users into:
 - Successfully identified and reported phishing scenarios
   (screenshot below)-
 
-<img width="706" height="603" alt="image" src="https://github.com/user-attachments/assets/9b438ec1-4ff4-4d49-a245-a0557000d438" />
+<img width="706" height="603" alt="Screenshot 2026-05-07 164814" src="https://github.com/user-attachments/assets/c1da47fc-a7a7-4150-b449-d6900801f6ca" />
+
 
 
 ---
