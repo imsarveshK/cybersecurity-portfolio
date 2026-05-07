@@ -51,6 +51,6 @@ Examples of IOCs:
 - File hashes
 
 ---
-Screenshot Of Completion
+## Screenshot Of Completion
 <img width="2558" height="1318" alt="image" src="https://github.com/user-attachments/assets/3c49e6c4-431b-4f73-a2fc-efc45f30514c" />
 
