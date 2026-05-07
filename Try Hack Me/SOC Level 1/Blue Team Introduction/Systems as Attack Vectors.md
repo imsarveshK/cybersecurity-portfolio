@@ -111,9 +111,9 @@ Recommended security measures:
 - Secure system configuration
 
 ---
-- decided what to do with the Systems at Risk and chose the best measures to protect systems in THM practice sccenario-
-  <img width="701" height="622" alt="image" src="https://github.com/user-attachments/assets/036e8df5-ab5a-4429-995c-fea03ee74263" />
+## decided what to do with the Systems at Risk and chose the best measures to protect systems in THM practice sccenario-
+ <img width="701" height="622" alt="Screenshot 2026-05-07 165650" src="https://github.com/user-attachments/assets/bbfb976a-de9d-4e72-80aa-b6e34ba50b1b" />
 
 
--Screenshot of room completion-
+## Screenshot of room completion-
 <img width="2559" height="1321" alt="Screenshot 2026-05-06 141406" src="https://github.com/user-attachments/assets/3741a628-a4f1-4f1b-85c6-8609e08c5157" />
