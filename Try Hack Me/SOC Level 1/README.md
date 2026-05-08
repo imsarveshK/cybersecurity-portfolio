@@ -49,21 +49,6 @@ Through this path, I aim to:
 
 ---
 
-# Completed Rooms
-
-| Room Name | Status |
-|------------|---------|
-| Junior Security Analyst Intro| ✅ |
-| SOC Role in Blue Team| ✅ |
-| Humans as Attack Vectors | ✅ |
-| Systems as Attack Vectors | ✅ |
-| SOC L1 Alert Triage | ✅ |
-| Windows Event Logs | ⏳ |
-
-> This section will be continuously updated as I progress through the path.
-
----
-
 # Repository Structure
 
 ```text
