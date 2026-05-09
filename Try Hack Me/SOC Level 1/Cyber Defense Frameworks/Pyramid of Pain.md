@@ -119,7 +119,7 @@ Recommended approaches:
 
 ---
 
-## Identified the tires of Pyramid of Pain-
+## Identified the tiers of Pyramid of Pain-
 
 <img width="764" height="616" alt="Screenshot 2026-05-09 210904" src="https://github.com/user-attachments/assets/5342d580-d787-4441-95ca-77bc5ab63b00" />
 
