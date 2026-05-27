@@ -25,8 +25,6 @@ The Elastic Stack is a collection of tools used for:
 - Searching and analyzing events
 - Visualizing security information
 
-The stack is commonly used by SOC teams for centralized logging and security monitoring.
-
 ---
 
 ## Components of the Elastic Stack
