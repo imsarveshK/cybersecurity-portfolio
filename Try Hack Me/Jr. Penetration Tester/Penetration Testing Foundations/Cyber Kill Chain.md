@@ -77,6 +77,8 @@ Defensive Countermeasure: Data Loss Prevention (DLP) controls monitoring massive
 
 ### 🛠️ Security Engineering & Blue-Team Takeaways
 
-Defense in Depth Matrix: Relying on a single boundary control guarantees a breach. True infrastructure engineering requires interlocking visibility—if a firewall misses the Delivery phase, a local host EDR must trigger during the Exploitation phase, and SIEM logic must flag anomalous traffic during the Command & Control phase.
+Defense in Depth Matrix:
+Relying on a single boundary control guarantees a breach. True infrastructure engineering requires interlocking visibility—if a firewall misses the Delivery phase, a local host EDR must trigger during the Exploitation phase, and SIEM logic must flag anomalous traffic during the Command & Control phase.
 
-Incident Response Pivot Point: When triaging an alert inside a SIEM (like Splunk), determining the current Kill Chain phase immediately tells the analyst the severity of the incident. An alert signaling a malicious file download (Delivery) requires a standard desktop isolation protocol; an alert tracking an encrypted out-of-bounds outbound beacon (C2) requires an immediate, high-severity Incident Response declaration.
+Incident Response Pivot Point:
+When triaging an alert inside a SIEM (like Splunk), determining the current Kill Chain phase immediately tells the analyst the severity of the incident. An alert signaling a malicious file download (Delivery) requires a standard desktop isolation protocol; an alert tracking an encrypted out-of-bounds outbound beacon (C2) requires an immediate, high-severity Incident Response declaration.
